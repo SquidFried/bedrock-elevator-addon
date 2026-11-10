@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Elevator Resources",
+    "description": "Textures, models and sounds for Elevator Addon",
+    "uuid": "d41e8b62-7f35-4c91-a620-3e8d5b7f194a",
+    "version": [0, 1, 0],
+    "min_engine_version": [1, 26, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "b62f9a31-5d74-48c0-93e1-7a2d6f8450bc",
+      "version": [0, 1, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "8a6d7f21-4b93-4e12-a6f5-9c2d1e7b3048",
+      "version": [0, 1, 0]
+    }
+  ]
+}
